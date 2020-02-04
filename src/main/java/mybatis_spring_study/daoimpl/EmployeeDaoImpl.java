@@ -1,7 +1,5 @@
 package mybatis_spring_study.daoimpl;
 
-import java.sql.SQLException;
-
 import javax.inject.Inject;
 
 import org.apache.ibatis.session.SqlSession;

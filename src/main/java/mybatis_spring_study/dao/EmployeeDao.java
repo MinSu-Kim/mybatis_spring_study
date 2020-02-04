@@ -1,7 +1,5 @@
 package mybatis_spring_study.dao;
 
-import java.sql.SQLException;
-
 import mybatis_spring_study.dto.Employee;
 
 public interface EmployeeDao {
